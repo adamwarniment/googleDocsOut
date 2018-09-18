@@ -6,3 +6,10 @@ Browser extension for Google Chrome to automatically popout any opened Google Do
 * Improves productivity by preventing tab loss
 
 ![Google Docs Popout on GitHub](images/screen-github.png)
+
+### Install on Chrome
+1. Download master.zip [Chrome Web Store](https://github.com/adamwarniment/googleDocsOut/archive/master.zip)
+2. Extract googleDocsOut-master to safe, installation location
+3. Navigate to [chrome://extensions](chrome://extnesions)
+4. Enable Developer Mode
+5. Select Load Unpacked and browse to installation location of googleDocsOut-master
